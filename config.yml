@@ -1,0 +1,21 @@
+scoreboard:
+  # refresh time in seconds
+  refreshTime: 1
+  title: '&6&lScoreboard'
+  lines:
+  - '&7Nick: &e%player_name%'
+  - ''
+  - '&7Online: &e%players_online%'
+  - ''
+  - '&7Discord: &eEcAaMdn8yP'
+  - ''
+  - '&7Ping: &e%player_ping%'
+  - ''
+  - '&7Lokalizacja:'
+  - '&7x: &e%player_x%'
+  - '&7y: &e%player_y%'
+  - '&7z: &e%player_z%'
+  - ''
+  - '&7RAM: &e%server_free_mb%&7/&e%server_max_mb% MB'
+  - ''
+  - '&eserver.pl'
